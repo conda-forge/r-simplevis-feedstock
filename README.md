@@ -1,11 +1,11 @@
-About r-simplevis
-=================
+About r-simplevis-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-simplevis-feedstock/blob/main/LICENSE.txt)
 
 Home: https://StatisticsNZ.github.io/simplevis/, https://github.com/StatisticsNZ/simplevis/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-simplevis-feedstock/blob/main/LICENSE.txt)
 
 Summary: Wrapper functions around the amazing 'ggplot2' and 'leaflet' packages that aims to simplify beautiful 'ggplot2' and 'leaflet' visualisation. Precursor package to the 'ggblanket' package.
 
