@@ -1,6 +1,5 @@
 {% set version = "7.1.0" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-simplevis
@@ -13,8 +12,7 @@ source:
   sha256: 2b4dd151a60225cbefc70f8ea8f61dd96c25515aafbf80f5a1a979eced8b54f4
 
 build:
-  merge_build_host: true  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
